@@ -11,9 +11,6 @@ This repository contains materials accompanying the submitted paper on how users
 - **PSM_Study_Passwords.csv**  
   The 32 synthetic passwords used in the user study and their benchmark classes.
 
-- **PSM_Password_Generation.pdf**  
-  Password-generation procedure, structural arrangements, and semantic categories used in Phase 1.
-
 - **PSM_GPT4_1_Prompts.pdf**  
   Prompts used during the semantic-category refinement and classification step.
 
